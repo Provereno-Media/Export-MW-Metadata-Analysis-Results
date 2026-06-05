@@ -31,13 +31,9 @@ Export any YouTube video, channel, or playlist metadata to **JSON**, **CSV**, or
 
 ## 🚀 Installation
 
-> **Drag** the button from [`mw-metadata-exporter.html`](./mw-metadata-exporter.html) to your **Bookmarks Bar**.  
-> If the bar is hidden, press `Ctrl+Shift+B` (Windows / Linux) or `Cmd+Shift+B` (macOS).
-
 ### Option A — Installer page *(recommended)*
 
-1. Download [`mw-metadata-exporter.html`](./mw-metadata-exporter.html) and open it in your browser
-2. **Drag** the teal button onto your Bookmarks Bar
+> **Drag** the button from [`mw-metadata-exporter.html`](https://www.perplexity.ai/computer/a/e26e7f7d-7fc8-5e7b-ae25-daf882f99615) to your **Bookmarks Bar**.  
 
 ### Option B — Manual
 
@@ -102,19 +98,6 @@ Three system fields are always appended:
 | `_pageUrl` | Current page URL |
 | `_exportedAt` | ISO 8601 export timestamp |
 
-
----
-
-## 📁 Repository contents
-
-```text
-mw-metadata-exporter/
-├── mw-metadata-exporter.html   ← Installer page
-├── bookmarklet_source.js       ← Readable source
-└── README.md                   ← This file
-```
-
-
 ---
 
 ## 🔒 Privacy \& security
@@ -130,11 +113,5 @@ mw-metadata-exporter/
 
 **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)**
 
-Built by **Pavel Bannikov** for [Provereno.Media](https://provereno.media), 2026.
+Built by **Pavel "Pogoda" Bannikov** for [Provereno.Media](https://provereno.media), 2026.
 Bookmarklet for [MW Metadata](https://mattw.io/youtube-metadata/) by [Matt W](https://mattw.io).
-
----
-
-<div align="center">
-<sub>Made for OSINT researchers and fact-checkers</sub>
-</div>
