@@ -9,7 +9,7 @@
 
 # 📦 MW Metadata Exporter
 
-**A one-click bookmarklet for [mattw.io/youtube-metadata](https://mattw.io/youtube-metadata/)**  
+**A one-click bookmarklet for [mattw.io/youtube-metadata](https://mattw.io/youtube-metadata/)**  ([Matt Wright | Github](https://github.com/mattwright324))
 Export any YouTube video, channel, or playlist metadata to **JSON**, **CSV**, or **Markdown** — instantly, in the browser, with zero setup.
 
 <br/>
